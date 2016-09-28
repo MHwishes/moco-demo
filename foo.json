@@ -1,0 +1,38 @@
+[
+  {
+    "request": {
+      "method": "get",
+      "uri": "/test"
+    },
+    "response": {
+      "text": "I'm get"
+    }
+  },
+  {
+    "request": {
+      "method": "post",
+      "uri": "/test"
+    },
+    "response": {
+      "text": "I'm post"
+    }
+  },
+  {
+    "request": {
+      "method": "put",
+      "uri": "/test"
+    },
+    "response": {
+      "text": "I'm put"
+    }
+  },
+  {
+    "request": {
+      "method": "delete",
+      "uri": "/test"
+    },
+    "response": {
+      "text": "I'm delete"
+    }
+  }
+]
